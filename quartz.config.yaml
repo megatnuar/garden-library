@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: megatnuar.codeberg.page
+  baseUrl: megatnuar.github.io
   ignorePatterns:
     - private
     - templates
