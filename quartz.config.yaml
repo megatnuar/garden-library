@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: megatnuar.github.io
+  baseUrl: megatnuar.github.io/garden-library
   ignorePatterns:
     - private
     - templates
